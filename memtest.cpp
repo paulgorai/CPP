@@ -3,6 +3,8 @@
 //This is GIT TEST
 //This branch 2
 
+//This is branch 3
+
 using namespace std;
 
 class A
